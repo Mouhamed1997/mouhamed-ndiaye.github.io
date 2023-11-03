@@ -33,3 +33,22 @@
     top: 10%;
     right: 17%;
 }
+@media screen and (max-width: 500px) {
+    #lightbox{
+        top: 25%;
+        bottom: 25%;
+        left: 0%;
+        right: 0%;
+    }
+    #lightbox img{
+        width: 48%;
+        height: 80%;
+        z-index: 11;
+        opacity: 1;
+    }
+    .butt .icon-cross{
+        position: absolute;
+        top: 0%;
+        right: 0%;
+    }
+}
