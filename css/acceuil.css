@@ -480,7 +480,7 @@ header .text h1{
 /*-------------------------------------------------------------PIED DE PAGE--------------------------------------------------------*/
 
 .footer{
-    background-color: black;
+    background-image: url("../image/footer.png");
     height: 100vh;
     width: 100%;
     background-size: cover;
